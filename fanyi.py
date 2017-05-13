@@ -7,7 +7,7 @@ import http.client
 import json
 
 while True:
-    #请输入自己的id与密匙
+    #请输入您的id与密匙
     appid = 
     key = 
     salt = random.randint(1000000000,9999999999)
